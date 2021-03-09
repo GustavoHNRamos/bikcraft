@@ -10,7 +10,7 @@ Durante a criação do site utilizamos ferramentas como:
 * PHP Mailer
 * VSCode (Editor de código de sua preferência)
 
-### Demonstrção ###
+### 💻 Demonstrção ###
 
 Você pode encontrar uma demonstração do site finalizado clicando [aqui](https://gustavohnramos.github.io/bikcraft/)
 
